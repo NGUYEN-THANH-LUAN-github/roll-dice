@@ -1,2 +1,2 @@
 # roll-dice
-[demo](https://nguyen-thanh-luan-github.github.io/roll-dice/)
+[demo](https://thanh-luan-nguyen.github.io/roll-dice/)
